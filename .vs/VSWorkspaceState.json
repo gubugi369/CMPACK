@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\WindowsFormsAppOfAnglicanFinance"
+    "\\.git",
+    "\\WindowsFormsAppOfAnglicanFinance",
+    "\\WindowsFormsAppOfAnglicanFinance\\bin",
+    "\\WindowsFormsAppOfAnglicanFinance\\obj",
+    "\\로컬 설정(.vs)",
+    "\\전역 설정(C:\\Users\\gubug\\AppData\\Local\\Microsoft\\VisualStudio\\15.0_2a27081c\\OpenFolder)"
   ],
-  "SelectedNode": "\\WindowsFormsAppOfAnglicanFinance.sln",
+  "SelectedNode": "\\로컬 설정(.vs)\\VSWorkspaceState.json",
   "PreviewInSolutionExplorer": false
 }
