@@ -16,3 +16,4 @@ C:\Users\gubug\source\repos\CMPACK\WindowsFormsAppOfAnglicanFinance\obj\Debug\Wi
 C:\Users\gubug\source\repos\CMPACK\WindowsFormsAppOfAnglicanFinance\obj\Debug\WindowsFormsAppOfAnglicanFinance.csproj.CoreCompileInputs.cache
 C:\Users\gubug\source\repos\CMPACK\WindowsFormsAppOfAnglicanFinance\obj\Debug\WindowsFormsAppOfAnglicanFinance.exe
 C:\Users\gubug\source\repos\CMPACK\WindowsFormsAppOfAnglicanFinance\obj\Debug\WindowsFormsAppOfAnglicanFinance.pdb
+C:\Users\gubug\source\repos\CMPACK\WindowsFormsAppOfAnglicanFinance\obj\Debug\WindowsFormsAppOfAnglicanFinance.Form1.resources
